@@ -1,1 +1,3 @@
 # Adaptive-Headlight-with-Real-Time-Data-Logging-and-Cloud-Integration
+
+This project involves designing a smart automotive system using two STM32 microcontrollers: a Functional Control Unit (FCU) and a Telematics Control Unit (TCU). The FCU controls an adaptive headlight system, which dynamically adjusts high beams based on oncoming traffic and modifies headlight direction when turning. The sensor data from the FCU is transmitted via CAN bus to the TCU, which logs the data and sends it to the cloud using MQTT for remote monitoring and analysis. This system enhances vehicle safetyand real-time data tracking
